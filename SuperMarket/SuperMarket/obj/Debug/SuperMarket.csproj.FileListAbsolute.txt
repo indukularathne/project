@@ -1,0 +1,16 @@
+C:\Users\ACER\source\repos\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe.config
+C:\Users\ACER\source\repos\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe
+C:\Users\ACER\source\repos\SuperMarket\SuperMarket\bin\Debug\SuperMarket.pdb
+C:\Users\ACER\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Form1.resources
+C:\Users\ACER\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Properties.Resources.resources
+C:\Users\ACER\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.exe
+C:\Users\ACER\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.pdb
+C:\Users\ACER\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.CategoryForm.resources
+C:\Users\ACER\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.SellerForm.resources
+C:\Users\ACER\source\repos\SuperMarket\SuperMarket\bin\Debug\mysql.data.dll
+C:\Users\ACER\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.CopyComplete
+C:\Users\ACER\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.ProductForm.resources
+C:\Users\ACER\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.SellingForm.resources
